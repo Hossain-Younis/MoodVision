@@ -1,0 +1,6 @@
+The trained and tested model is saved in both .h5 and .keras format.
+Since the sizes of the files are too large to upload on Github I have provided a link to 
+my google drive where the trained models are found
+
+Link:
+https://drive.google.com/drive/folders/1odDfZ7tFYVxY-WKs6rDcBOvjm689Suu3?usp=drive_link
